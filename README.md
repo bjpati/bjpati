@@ -4,8 +4,10 @@ A practical person with ambitious vision for the future as electronics engineeri
 
 ## Languages and Tools:
 <div class="row">
-<img alt="Java" width="26px" src="https://simpleicons.org/icons/java.svg"/>
-<img alt="C" width="26px" src="https://simpleicons.org/icons/c.svg"/>
+<img width="26px" src="https://simpleicons.org/icons/java.svg"/>
+<img width="26px" src="https://simpleicons.org/icons/c.svg"/>
+<img width="26px" src="https://simpleicons.org/icons/wolframmathematica.svg"/>
+<img width="26px" src="https://simpleicons.org/icons/intellijidea.svg"/>
 
 </div>
 
