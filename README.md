@@ -14,4 +14,4 @@ A practical person with ambitious vision for the future as electronics engineeri
 ## Social links:
 
 <a href="https://www.linkedin.com/in/bashar-pati-89735b124/">
-<img align="left" src="https://github.com/bjpati/bjpati/blob/main/Icon/768px-LinkedIn_logo_initials.webp" alt="Bashar Pati | LinkedIn" width="21px"/></a>
+<img width="21px" src="https://simpleicons.org/icons/linkedin.svg"/>
