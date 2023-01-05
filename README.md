@@ -30,12 +30,12 @@ A practical person with ambitious vision for the future as electronics engineeri
   
   
 ## University Courses:
-  * [DH2642 - Interaction Programming and the Dynamic Web]()
+  * [DH2642 - Interaction Programming and the Dynamic Web](https://github.com/bjpati/Interaction-Programming-and-the-Dynamic-Web)
   * [IL1331 - VHDL Design]()
   * [IK1203 - Networks and Communication](https://github.com/bjpati/Networks-and-Communication)
   * [II1330 - Signal Processing]()
   * [IS1300 - Embedded Systems](https://github.com/bjpati/Embedded-system)
-  * [ID1021 - Algorithms and Data Structures]()
+  * [ID1021 - Algorithms and Data Structures](https://github.com/bjpati/Algorithms-and-Data-Structures)
   * [IS1200 - Computer Hardware Engineering](https://github.com/bjpati/Computer-Hardware-Engineering)
   * [ID1018 - Programming I](https://github.com/bjpati/Programming-I)
   
