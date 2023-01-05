@@ -36,7 +36,7 @@ A practical person with ambitious vision for the future as electronics engineeri
   * [II1330 - Signal Processing]()
   * [IS1300 - Embedded Systems](https://github.com/bjpati/Embedded-system)
   * [ID1021 - Algorithms and Data Structures]()
-  * [IS1200 - Computer Hardware Engineering]()
+  * [IS1200 - Computer Hardware Engineering](https://github.com/bjpati/Computer-Hardware-Engineering)
   * [ID1018 - Programming I](https://github.com/bjpati/Programming-I)
   
   
